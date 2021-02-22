@@ -1,0 +1,22 @@
+ li{ 
+    font-weight: 700;
+ }
+.color{
+    color:red;
+} 
+.red{
+    color: aqua;   
+}
+.fin{
+    text-decoration:line-through;
+}
+#first{
+    font-size:30px;
+
+}
+#first2{
+    font-size:10px;
+}
+body{
+    background-color: black;
+}
